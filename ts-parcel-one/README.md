@@ -15,4 +15,9 @@ yarn add parcel-bundler --dev
 gibo dump VisualStudioCode node > .gitignore
 # Coding -> src/index.html, src/index.ts
 npx parcel src/index.html
+
+yarn add three
+yarn add three-orbitcontrols-ts
+# add image & update src/index.html, src/index.ts
+npx parcel src/index.html
 ```
